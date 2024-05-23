@@ -1,6 +1,3 @@
-Berikut adalah contoh README yang sesuai untuk proyek ini:
-
-```markdown
 # Thesis to Journal Converter
 
 This project provides a Python script to convert sections of an Indonesian thesis into a structured journal template using `python-docx`. The script extracts key sections from a PDF and formats them into a Word document, maintaining a clean and professional layout.
